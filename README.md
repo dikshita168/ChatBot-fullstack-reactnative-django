@@ -51,7 +51,7 @@ The application allows users to send messages from a mobile interface, which are
 - ⚡ Redis caching *(planned)*
 
 ---
-
+<!-- 
 ## 📂 Project Structure
 
 ```text
@@ -88,4 +88,4 @@ ChatBot-fullstack/
 │   └── .env.example
 │
 ├── .gitignore
-└── README.md
+└── README.md -->
